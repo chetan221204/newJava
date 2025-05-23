@@ -14,7 +14,8 @@ public class Interface{
     public static void main(String[] args)
     { 
         Dev obj = new Dev();
+       
+        obj.print(); 
         obj.show();
-        obj.print();
     }
     }
