@@ -15,5 +15,6 @@ public class hashmap {
         System.out.println(map.get("id2"));
         System.out.println(map.containsKey("id1"));
         System.out.println(map.containsValue(5));
+        
     }
 }
