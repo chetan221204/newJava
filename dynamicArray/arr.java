@@ -1,6 +1,6 @@
 package dynamicArray;
 
-import java.sql.Array;
+//import java.sql.Array;
 import java.util.ArrayList;
 
 public class arr {
